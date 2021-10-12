@@ -12,14 +12,14 @@
 此压缩包包含8个子文件，以下是各个问价夹对应的模块功能介绍
 * 1、apps:
      *里面包含8个子文件：
-          area：收货地址；
-          carts：购物车；
-          contents：广告页面，轮播图；
-          goods：商品；
-          orders：订单界面
-          payment：支付界面
-          user：用户登陆界面
-          verifications：图形验证码界面
+          * area：收货地址；
+          * carts：购物车；
+          * contents：广告页面，轮播图；
+          * goods：商品；
+          * orders：订单界面
+          * payment：支付界面
+          * user：用户登陆界面
+          * verifications：图形验证码界面
  * 2、celery_tasks：
        里面包含两个文件：
           emails：邮箱信息；
